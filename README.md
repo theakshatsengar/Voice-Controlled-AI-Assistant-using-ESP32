@@ -1,4 +1,4 @@
-# Voice-Controlled-AI-Assistant-using-ESP32
+# Voice-Controlled-IOT-Switch-using-ESP32
 
 Description
 This project implements a voice-controlled AI assistant using an ESP32 microcontroller. The AI assistant can respond to voice commands and perform various tasks, such as controlling smart home devices, providing weather updates, setting reminders, and more.
